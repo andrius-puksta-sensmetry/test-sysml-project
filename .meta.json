@@ -1,7 +1,12 @@
 {
   "index": {
+    "GH_public": "a.sysml"
   },
   "created": "2026-05-28T11:03:14Z",
   "checksum": {
+    "a.sysml": {
+      "value": "",
+      "algorithm": "NONE"
+    }
   }
 }
